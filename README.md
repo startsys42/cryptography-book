@@ -16,6 +16,7 @@ usica
 palabras
 ruido
 logica
+cerraduras
 numeros romanos
 colores
 ambiguedaz enguaje
